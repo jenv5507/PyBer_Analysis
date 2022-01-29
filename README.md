@@ -1,10 +1,10 @@
-# PyBer Analysis
+* PyBer Analysis
 
-#Overview of the analysis#
+**Overview of the analysi**
 
 PyBer was looking for some additional analysis on their ride-sharing data by city type.  I was asked to create a report that shows the total weekly fares for each city type and recap the data on how it differs by city type.  In addition, after reviewing the anaylsis, I was asked to provide some insight information on the data and make recommendations so that the CEO can make some informed decisions.
 
-#Results of the analysis#
+**Results of the analysis**
 
 As you can see in the summary image below, the rural area gets the most fare per ride and driver but the least amount of total revenue in fares when comparing to the other areas.  In addition to the least amount of revenue, there are less rides and drivers in the area.  Rural areas are typically more spread out with less population.  The higher average fare is most likely due to a farther drive time.  
 
