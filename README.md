@@ -15,6 +15,6 @@ The urban areas have the most total rides and drivers.  They made over 62.72% of
 
 ![](/Resources/PyBer_Summary.png)
 
-When the ride-sharing data is graphed as you can see in the image below, you can see that in all areas, there is an uptic in rides in the 3rd week of February.  When looking at the rural area, there is also an increase in rides at the end of April.  It is interesting to see that the urban area had 4 significant swings throughout the reporting period.  The 
+When the ride-sharing data is graphed as you can see in the image below, you can see that in all areas, there is an uptick in rides in the 3rd week of February.  When looking at the suburban area, there is also a significant increase in rides at the end of April.  It is interesting to see that the urban area had 4 significant swings throughout the reporting period.  The rural area never gets over 500 rides per week with their highest rides being the beginning of April
 
 ![](/Resources/Total_Fares_Graph.png)
