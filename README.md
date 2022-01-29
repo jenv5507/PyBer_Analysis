@@ -18,3 +18,9 @@ The urban areas have the most total rides and drivers.  They made over 62.72% of
 When the ride-sharing data is graphed as you can see in the image below, you can see that in all areas, there is an uptick in rides in the 3rd week of February.  When looking at the suburban area, there is also a significant increase in rides at the end of April.  It is interesting to see that the urban area had 4 significant swings throughout the reporting period.  The rural area never gets over 500 rides per week with their highest rides being the beginning of April
 
 ![](/Resources/Total_Fares_Graph.png)
+
+**Summary**
+After reviewing the data, I have some recommendations for PyBer.
+ - During the upticks in rides, for example, the last week in February I would look at increasing the number of drivers available so that people can easily find a ride when needed.
+ - When you look at the statistics for the urban area, it appears that they have the more drivers than rides.  During the slower times, I would recommend having less drivers and increase the fare.
+ -  
