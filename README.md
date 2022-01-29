@@ -23,4 +23,6 @@ When the ride-sharing data is graphed as you can see in the image below, you can
 After reviewing the data, I have some recommendations for PyBer.
  - During the upticks in rides, for example, the last week in February I would look at increasing the number of drivers available so that people can easily find a ride when needed.
  - When you look at the statistics for the urban area, it appears that they have the more drivers than rides.  During the slower times, I would recommend having less drivers and increase the fare.
- -  
+ -  The suburban area has lots of potential.  In the urban area, there are more drivers than rides and the suburban area has less drivers than rides.  With the suburban area receiving $39.50, I would increase the number of drivers to increase the total fares from that area.  
+
+With theses suggestions, I think PyBer can grow their total fares significantly.  
