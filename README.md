@@ -6,7 +6,12 @@ PyBer was looking for some additional analysis on their ride-sharing data by cit
 
 #Results of the analysis#
 
-As you can see in the summary below.
+As you can see in the summary image below, the rural area gets the most fare per ride and driver but the least amount of total revenue in fares when comparing to the other areas.  In addition to the least amount of revenue, there are less rides and drivers in the area.  Rural areas are typically more spread out with less population.  The higher average fare is most likely due to a farther drive time.  
+
+Suburban areas are inbetween rural and urban areas as far as total fare dollars.  Their average fare is $39.50 and brings in over 4 times the revenue of rural areas.  It is interesting to see that the ratio of total drivers and rides is .78.  The rural areas made up a little over 30% of the total fare dollars between the 3 types of areas.
+
+The urban areas have the most total rides and drivers.  They made over 62.72% of total fares which is most likely related to poplation and the type of area.  Urban areas typically have many businesses and residential areas and a high population.  It is interesting to see that they have the lowest average fare per driver which is related to the shorter distances between areas in an urban area.
+
 
 ![](/Resources/PyBer_Summary.png)
 
