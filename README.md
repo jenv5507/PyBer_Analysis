@@ -10,7 +10,7 @@ As you can see in the summary image below, the rural area gets the most fare per
 
 Suburban areas are inbetween rural and urban areas as far as total fare dollars.  Their average fare is $39.50 and brings in over 4 times the revenue of rural areas.  It is interesting to see that the ratio of total drivers and rides is .78.  The rural areas made up a little over 30% of the total fare dollars between the 3 types of areas.
 
-The urban areas have the most total rides and drivers.  They made over 62.72% of total fares which is most likely related to poplation and the type of area.  Urban areas typically have many businesses and residential areas and a high population.  It is interesting to see that they have the lowest average fare per driver which is related to the shorter distances between areas in an urban area.
+The urban areas have the most total rides and drivers.  They made over 62.72% of total fares which is most likely related to poplation and the type of area.  Urban areas typically have many businesses and residential areas and a high population.  It is interesting to see that they have the lowest average fare per driver which is related to the shorter distances between areas in an urban area.  The urban area has almost 1.50 drivers for the number of rides.  
 
 
 ![](/Resources/PyBer_Summary.png)
