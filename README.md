@@ -8,3 +8,6 @@ PyBer was looking for some additional analysis on their ride-sharing data by cit
 
 Ad you can see in the summary below.
 
+![](/Resources/PyBer_Summary.png)
+
+![](/Resources/Total_Fares_Graph.png)
