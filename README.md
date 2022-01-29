@@ -6,7 +6,7 @@ PyBer was looking for some additional analysis on their ride-sharing data by cit
 
 #Results of the analysis#
 
-Ad you can see in the summary below.
+As you can see in the summary below.
 
 ![](/Resources/PyBer_Summary.png)
 
