@@ -20,6 +20,7 @@ When the ride-sharing data is graphed as you can see in the image below, you can
 ![](/Resources/Total_Fares_Graph.png)
 
 **Summary**
+
 After reviewing the data, I have some recommendations for PyBer.
  - During the upticks in rides, for example, the last week in February I would look at increasing the number of drivers available so that people can easily find a ride when needed.
  - When you look at the statistics for the urban area, it appears that they have the more drivers than rides.  During the slower times, I would recommend having less drivers and increase the fare.
